@@ -1,4 +1,4 @@
-# 💬 HaiTeman
+.# 💬 HaiTeman
 
 HaiTeman adalah chatbot berbasis audio dan visualisasi data yang dikembangkan untuk membantu individu mengelola emosi secara sehat dan mandiri melalui pendekatan Acceptance and Commitment Therapy (ACT). Proyek ini hadir sebagai respons atas tingginya angka gangguan kesehatan mental, terutama di kalangan muda dan masyarakat urban yang sibuk, dengan akses terbatas terhadap layanan profesional.
 
